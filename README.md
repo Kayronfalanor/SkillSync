@@ -1,5 +1,6 @@
 # SkillSync
 Display your skills, find study partners, mentors, and mentees with SkillSync.
+<img src="https://github.com/Kayronfalanor/SkillSync/blob/main/images/SkillSyncLogo.JPG" width="150">
 
 ----
 
