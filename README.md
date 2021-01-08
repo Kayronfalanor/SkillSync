@@ -1,2 +1,12 @@
 # SkillSync
-Project to create a web application designed to allow users to organize and view their various skill levels as well as connect with people with similar levels.
+Display your skills, find study partners, mentors, and mentees with SkillSync.
+
+----
+
+## Features
+-Build profile of skills
+-Display skill levels in a visual format
+-Find other user's skill levels
+-Description of various technologies and recommnded resources
+
+----
